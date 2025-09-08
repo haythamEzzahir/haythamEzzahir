@@ -1,10 +1,11 @@
-<img align="right" alt="Coding" src="https://media.licdn.com/dms/image/v2/D4E16AQH6IdP8AYpBvQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728139196455?e=1759968000&v=beta&t=BiL2hnx8a08pX2kfgA4ha-eQHL1basJOR-L3Ex9r90U"><br><br>
+<img align="center" alt="Coding" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png">
+
 
 <h1 align="center">Hi 👋, I'm Haytham Ezzahir</h1>
 <h3 align="center">A Software Engineering Student – ENIAD | Innovation is my turf</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+<img align="right" alt="Coding" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYDWI6Em7jvHiTrn9etwUTv4JV0zPY8WE4g&s"><br><br>
 
 - 🔭 I’m currently working on **building my portfolio website**
 
