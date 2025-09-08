@@ -5,7 +5,7 @@
 <h3 align="center">A Software Engineering Student – ENIAD | Innovation is my turf</h3>
 
 
-<img align="right" alt="Coding" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYDWI6Em7jvHiTrn9etwUTv4JV0zPY8WE4g&s"><br><br>
+<img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1200/1*anJ_utnaYQXFKbap2s0oJg.gif"><br><br>
 
 - 🔭 I’m currently working on **building my portfolio website**
 
