@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Banner" style="width:100%; height:400px; object-fit:cover;" />
+<img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png" alt="Banner" style="width:100%; height:400px; object-fit:cover;" />
 
 
 
