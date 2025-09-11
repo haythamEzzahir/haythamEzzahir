@@ -1,4 +1,5 @@
-![Banner](banner.jpg)
+<img src="banner.jpg" alt="Banner" style="width:100%; height:400px; object-fit:cover;" />
+
 
 
 <h1 align="center">Hi 👋, I'm Haytham Ezzahir</h1>
