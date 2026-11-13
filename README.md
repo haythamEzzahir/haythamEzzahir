@@ -1,11 +1,10 @@
-
-
 <div align="center">
 
 # Haytham Ezzahir
 
 **Software Engineering Student · ENIAD ·**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://haythamezzahir.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytham-ezzahir-4771862b4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ezzahirhaytham@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=haythamEzzahir&style=flat&color=blue)
@@ -16,9 +15,9 @@
 
 ## About me
 
-I'm a software engineering student at ENIAD, passionate about building real-world systems — from mobile apps to full-stack web platforms. I enjoy turning complex problems into clean, working code.
+I'm a software engineering student at ENIAD, passionate about building real-world systems from mobile apps to full-stack web platforms. I enjoy turning complex problems into clean, working code.
 
-- 🔭 Currently building **my portfolio website**
+- 🌐 Explore my work: **[haythamezzahir.vercel.app](https://haythamezzahir.vercel.app/)**
 - 📫 Reach me at **ezzahirhaytham@gmail.com**
 
 ---
@@ -70,11 +69,10 @@ I'm a software engineering student at ENIAD, passionate about building real-worl
 
 ![Streak](https://streak-stats.demolab.com?user=haythamEzzahir&theme=tokyonight&hide_border=true)
 
-
 </div>
 
 ---
 
 <div align="center">
-<sub>Open to internship and collaboration opportunities — feel free to reach out!</sub>
+<sub>Open to internship and collaboration opportunities — check out my <a href="https://haythamezzahir.vercel.app/">portfolio</a> or reach out!</sub>
 </div>
